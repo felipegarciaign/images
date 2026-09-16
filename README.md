@@ -1,4 +1,4 @@
-# entrepot publique pour documents et images
+# Entrepot publique pour documents et images
 
-## dossier "images"
+## Dossier "images"
 URL pour Superset/ Dashboard
